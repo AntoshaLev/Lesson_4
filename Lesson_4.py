@@ -1,4 +1,4 @@
-# Задача 2
+# Задача2
 
 from datetime import datetime
 from decimal import *
